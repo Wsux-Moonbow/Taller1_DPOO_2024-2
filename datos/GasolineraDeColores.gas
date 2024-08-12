@@ -1,0 +1,13 @@
+tipo:GreenGas:12000:100.0
+tipo:RedGas:15000:80.0
+tipo:YellowGas:8000:97.0
+tipo:BlueGas:10000:122.0
+surtidor:Ana:GreenGas:0.0:RedGas:0.0:YellowGas:0.0:BlueGas:0.0
+surtidor:Diego:GreenGas:0.0:RedGas:0.0:YellowGas:0.0:BlueGas:0.0
+surtidor:Diego:GreenGas:0.0:RedGas:0.0:YellowGas:0.0:BlueGas:0.0
+surtidor:Ana:GreenGas:0.0:RedGas:0.0:YellowGas:0.0:BlueGas:0.0
+empleado:Mateo:0
+empleado:Ana:0
+empleado:Lucia:0
+empleado:Diego:0
+empleado:Carlos:0
